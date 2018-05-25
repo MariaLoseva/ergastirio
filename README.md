@@ -1,2 +1,28 @@
-# Ergastirio
-Είναι το πρώτο μάθημα στο οποίο χρησιμοποιούμε το GitHub
+# html-student-repositories-MariaLoseva-16017
+# Askisi1-16017Student.html
+
+ <!DOCTYPE html>
+
+ <html lang="el">
+
+ <head>
+
+ <title> Η πρώτη μου σελίδα </title>
+
+ <meta charset="utf-8">
+
+ </head>
+
+ <body>
+
+ <h1>Επικεφαλίδα Παραγράφου</h1>
+
+ <p title="Επεξήγηση">Αυτή είναι μια παράγραφος.</p>
+
+ <p>Αυτή είναι μια δεύτερη παράγραφος. </p>
+
+ </body>
+
+ </html > 
+
+
